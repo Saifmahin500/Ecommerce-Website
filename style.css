@@ -112,10 +112,21 @@ p {
     padding: 20px 50px;
     align-items: center;
     justify-content: space-between;
+    margin-top: 10px;
   }
 
   .cardSection{
-    width: 250px;
-    padding: 0 10px;
+    /* width: 250px;
+    padding: 0 10px; */
+    background-color: bisque;
+    
+    
+  }
+  .fa-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 50px;
+    gap: 15px;
   }
   
