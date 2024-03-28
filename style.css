@@ -129,4 +129,8 @@ p {
     padding: 10px 50px;
     gap: 15px;
   }
-  
+  #newsletters{
+    background-image: url(img/banner/b14.png);
+    background-repeat: no-repeat;
+    background-position: 20% 30%;
+  }
