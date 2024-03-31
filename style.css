@@ -134,3 +134,30 @@ p {
     background-repeat: no-repeat;
     background-position: 20% 30%;
   }
+
+  .details-box{
+    display: flex;
+    margin-top: 20px;
+  }
+ #pro-detail .single-pro-img{
+    width: 40%;
+    margin-right: 50px;
+   
+ }
+
+ .small-img-grp{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+ }
+
+ .small-img-col{
+  flex-basis: 24%;
+  cursor: pointer;
+ }
+
+ .single-pro-details{
+  width: 50%;
+  padding-top: 30px;
+ 
+ }
