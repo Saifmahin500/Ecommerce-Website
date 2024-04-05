@@ -161,3 +161,13 @@ p {
   padding-top: 30px;
  
  }
+
+ #contract-datails{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ }
+
+ #contract-datails .details{
+  width: 40%;
+ }
